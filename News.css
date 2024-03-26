@@ -1,0 +1,9 @@
+.news__items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.container button{
+    margin: 0 27px;
+}
